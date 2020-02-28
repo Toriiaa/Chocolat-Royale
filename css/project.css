@@ -1,0 +1,304 @@
+.container-fluid {
+  background-color: #dbd6d6;
+  color: rgb(192, 168, 31);
+}
+.top-header {
+  background-color: black;
+}
+.top-header i {
+  color: white;
+}
+h2 {
+  color: #f7b809;
+}
+.nav-item{
+  padding-right: 30px ;
+}
+a:hover{
+  
+  color:white;
+  transition: 1s;
+  transform: scale(1.4);
+  color: #f7b809;
+
+}
+
+.header-container {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+.section1{
+  position: relative;
+  top:0;
+}
+
+#head-nav {
+  background: rgba(0, 0, 0, 0.932);
+  transition: 0.4s;
+}
+
+ .section3 .owl-carousel img{
+  width:200px;
+}
+}
+header {
+  padding: 30px;
+  transition: 0.4s;
+}
+
+.nav-link {
+  color: white;
+  letter-spacing: 1.5px;
+  font-size: 12px;
+}
+
+*section {
+  /* margin:30px; */
+  height: 100vh;
+}
+.my-slide img {
+  height: 80vh;
+  object-fit: cover;
+}
+
+img {
+  width: 100%;
+  /* border: 2px solid white; */
+  /* margin:10px; */
+}
+.images img {
+  object-fit: cover;
+}
+h1, h2, h3, h4, h5{font-family: Garamond, serif;
+  line-height: 1em;
+  color: #ccac2b;
+  font-weight: 500;
+
+
+}
+
+.logo h2 {
+  font-family: Garamond, serif;
+  line-height: 1em;
+  color: #ccac2b;
+  font-weight: bold;
+  /* font-size: 50px; */
+  text-shadow: 0px 0px 0 rgb(163, 131, 2), 1px 1px 0 rgb(148, 116, -13),
+    2px 2px 0 rgb(134, 102, -27), 3px 3px 0 rgb(119, 87, -42),
+    4px 4px 0 rgb(105, 73, -56), 5px 5px 0 rgb(90, 58, -71),
+    6px 6px 0 rgb(76, 44, -85), 7px 7px 6px rgba(0, 0, 0, 0.7),
+    7px 7px 1px rgba(0, 0, 0, 0.5), 0px 0px 6px rgba(0, 0, 0, 0.2);
+}
+
+#main-logo {
+  font-size: 50px;
+  transition: 0.5s;
+}
+
+/* SECTION2 */
+.section2 h1 {
+  font-size: 65px;
+  color: rgb(204, 172, 43);
+}
+.section2 {
+  background-image: url(../images/);
+}
+.section2 img {
+  object-fit: cover;
+  height: 300px;
+}
+
+.second-paragraph {
+  text-align: center;
+}
+.back {
+  background-image: url(../images/close-up-of-wooden-plank-326311.jpg);
+  /* height:85vh; */
+}
+.transparent {
+  background-color: rgba(15, 15, 58, 0.39);
+  /* height:85vh; */
+}
+/* SECTION3 */
+.today-item img {
+  height: 350px;
+}
+
+.surround {
+  /* height: 200px; */
+  /* m-sm-auto */
+}
+
+
+.surround img {
+  margin: auto;
+  height: 200px;
+  object-fit: cover;
+}
+
+.section3 img {
+  width: 200px;
+  /* border: 2px solid white; */
+  /* margin: 10px; */
+}
+.section3 h5 {
+  color: rgb(204, 172, 43);
+}
+/* SECTION4 */
+.menu-margin {
+  margin: 10px;
+}
+.get {
+  color: rgb(204, 172, 43);
+  font-weight: 700;
+}
+td {
+  /* padding-left:25px; */
+  padding-right: 40px;
+}
+.menu-margin2 p {
+  padding-top: 15px;
+}
+.back2 {
+  background-image: url(../images/assorted-sliced-fruits-in-white-ceramic-bowl-1092730.jpg);
+  /* height: 100vh; */
+  color: white;
+}
+
+.transparent2 {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.section4 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.section4 {
+  margin-bottom: 50px;
+}
+
+/* SECTION5 */
+button {
+  padding: 5px;
+  margin-left: 45px;
+  margin-bottom: 10px;
+  background-color:rgb(126, 110, 110);
+}
+.space h4 {
+  margin: 40px;
+}
+
+.form-container {
+  background-color: rgba(104, 87, 87, 0.507);
+}
+
+form {
+  padding-top: 20px;
+}
+
+.form-container div {
+  padding: 15px;
+}
+input {
+  padding: 5px;
+  width: 100%;
+  /* margin: 20px;
+  padding-left:20px; */
+  background-color: white;
+}
+
+.section5 {
+  margin-top: 30px;
+}
+
+/* borrowed code */
+.fancy {
+  font-family: Garamond, serif;
+  line-height: 1em;
+  color: #ccac2b;
+  font-weight: bold;
+  font-size: 99px;
+  text-shadow: 0px 0px 0 rgb(163, 131, 2), 1px 1px 0 rgb(148, 116, -13),
+    2px 2px 0 rgb(134, 102, -27), 3px 3px 0 rgb(119, 87, -42),
+    4px 4px 0 rgb(105, 73, -56), 5px 5px 0 rgb(90, 58, -71),
+    6px 6px 0 rgb(76, 44, -85), 7px 7px 6px rgba(0, 0, 0, 0.7),
+    7px 7px 1px rgba(0, 0, 0, 0.5), 0px 0px 6px rgba(0, 0, 0, 0.2);
+}
+/* About page */
+.background3{
+  background-image: url(../images/assorted-sliced-fruits-in-white-ceramic-bowl-1092730.jpg);
+  padding-top:30px;
+  padding-bottom: 30px;
+  
+}
+.second-paragraph{
+  background-image: url(../images/jonathan-borba-ot-PvErcYCc-unsplash.jpg);
+  height: 50vh;;
+  
+}
+ .container1{
+  max-width:800px;
+  margin:0 auto;
+  background-color:rgba(187, 118, 130, 0.658);
+}
+label{
+  display:block;
+}
+.form-container1{
+  padding:20px 100px;
+  /* height: 100vh; */
+  justify-content: center;
+  align-items:center;
+ 
+}
+.flex-item{
+  /* flex-basis:50%; */
+  padding-top:10px;
+  padding-bottom: 10px;;
+  
+}
+.form1{
+  width:100%;
+  background:white;
+  height:100%;
+
+}
+.form-item h2{
+  text-align:center;
+  margin-bottom:20px;
+}
+.form-item{
+  padding-left:50px;
+  padding-right:50px;  
+  padding-top:30px; 
+   padding-bottom:30px;
+}
+.form-container1 input{
+  margin-bottom:30px;
+  width:100%;
+}
+.half{
+  width:40%;
+}
+textarea{
+  /* width:300px; */
+  /* padding-left:50px; */
+  padding-right:50px;
+}
+input[type="submit"] {
+  width:30%;
+  text-align: center;
+  background-color: black;
+  color:white;
+  border:2px solid black;
+  border-radius:12px;
+  
+}
+.submit{
+  text-align: center;
+  padding:20px;
+  
+} 
+
+}
